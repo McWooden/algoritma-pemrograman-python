@@ -24,8 +24,8 @@ buah[-2] = 'nanas'
 print(buah) # ['apel', 'jeruk', 'durian', 'anggur', 'nanas', 'semangka']
 
 # e. Tampilkan 3 buah pertama,
-# Belum diajarin selain pakai index yang buah[0],,buah[1], buah[2], tapi caranya gini:
-# data[start:end:step]
+# Belum diajarin selain pakai index yang buah[0],buah[1], buah[2], 
+# tapi caranya gini data[start:end:step]
 print(buah[:3]) # ['apel', 'jeruk', 'durian']
 
 # 2 Mengurutkan angka
