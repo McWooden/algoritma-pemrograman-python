@@ -19,7 +19,7 @@ buah.remove('mangga')
 print(buah) # ['apel', 'jeruk', 'durian', 'anggur', 'pisang', 'semangka']
 
 # d. Ubah 'pisang' menjadi 'nanas'
-# posisi pisang sebelum semangka itu indeks -2
+# posisi pisang sebelum semangka itu indeks -2 atau 4
 buah[-2] = 'nanas'  
 print(buah) # ['apel', 'jeruk', 'durian', 'anggur', 'nanas', 'semangka']
 
