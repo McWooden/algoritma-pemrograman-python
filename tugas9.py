@@ -7,25 +7,29 @@ buah = ['apel', 'mangga', 'jeruk', 'anggur', 'pisang']
 
 # a. Tambahkan 'semangka' di akhir list, ezz pzz lemon squizy
 buah.append('semangka')
-print(buah) # ['apel', 'mangga', 'jeruk', 'anggur', 'pisang', 'semangka']
+print(buah) 
+# ['apel', 'mangga', 'jeruk', 'anggur', 'pisang', 'semangka']
 
 # b. Sisipkan 'durian' di antara 'jeruk' dan 'anggur', kira kira index ke 3, 
-# rumus: .insert(index, data)
+# syntax: .insert(index, data)
 buah.insert(3, 'durian')
-print(buah) # ['apel', 'mangga', 'jeruk', 'durian', 'anggur', 'pisang', 'semangka']
+print(buah) 
+# ['apel', 'mangga', 'jeruk', 'durian', 'anggur', 'pisang', 'semangka']
 
 # c. Hapus 'mangga' dari list
 buah.remove('mangga')
-print(buah) # ['apel', 'jeruk', 'durian', 'anggur', 'pisang', 'semangka']
+print(buah) 
+# ['apel', 'jeruk', 'durian', 'anggur', 'pisang', 'semangka']
 
 # d. Ubah 'pisang' menjadi 'nanas'
 # posisi pisang sebelum semangka itu indeks -2 atau 4
 buah[-2] = 'nanas'  
-print(buah) # ['apel', 'jeruk', 'durian', 'anggur', 'nanas', 'semangka']
+print(buah) 
+# ['apel', 'jeruk', 'durian', 'anggur', 'nanas', 'semangka']
 
 # e. Tampilkan 3 buah pertama,
 # Belum diajarin selain pakai index yang buah[0],buah[1], buah[2], 
-# tapi caranya gini data[start:end:step]
+# tapi syntax-nya gini data[start:end:step]
 print(buah[:3]) # ['apel', 'jeruk', 'durian']
 
 # 2 Mengurutkan angka
