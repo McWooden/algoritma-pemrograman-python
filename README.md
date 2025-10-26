@@ -13,13 +13,15 @@
 Welcome... di repository tugas mata kuliah **Algoritma dan Pemrograman**.  
 
 ---
+
 <p align="center">
   <img src="asset/master.webp" alt="Preview Program" width="400"/>
 </p>
+
 ---
 
 ## ⚙️ Cara Menjalankan
-Pastikan kamu sudah menginstall **Python 3.x** di perangkatmu.
+Pastikan kamu sudah menginstall **Python 3.x** di perangkatmu. Juga pastikan tidak menggunakan bash ketika menjalankan di visual studio code.
 
 ```
 python nama_file.py
