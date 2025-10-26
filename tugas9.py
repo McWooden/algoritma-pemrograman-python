@@ -1,3 +1,6 @@
+# Nama: Sholahuddin Ahmad
+# NPM: 2505060070
+# Rombel: 4
 # Link Tugas: https://drive.google.com/file/u/2/d/1-hU_TucEdNJxoiGlorD0DeA8qtFa5E-r/view?usp=classroom_web
 
 # Latihan

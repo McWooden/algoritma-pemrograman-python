@@ -5,6 +5,7 @@
   <div>
     <strong>Nama:</strong> Sholahuddin Ahmad<br>
     <strong>NPM:</strong> 2505060070
+    <strong>Rombel:</strong> 2505060070
   </div>
 </div>
 
