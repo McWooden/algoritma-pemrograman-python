@@ -31,7 +31,7 @@ print(buah)
 # ['apel', 'jeruk', 'durian', 'anggur', 'nanas', 'semangka']
 
 # e. Tampilkan 3 buah pertama,
-# Belum diajarin selain pakai index yang buah[0],buah[1], buah[2], 
+# Belum diajarin selain pakai index yang buah[0], buah[1], buah[2], 
 # tapi syntax-nya gini data[start:end:step]
 print(buah[:3]) # ['apel', 'jeruk', 'durian']
 
